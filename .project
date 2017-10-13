@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ejercicios</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.pde.ManifestBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.pde.SchemaBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.xtext.ui.shared.xtextBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.pde.PluginNature</nature>
+		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
+		<nature>org.uqbar.project.wollok.wollokNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>assets/casa2P.jpg</name>
+			<type>1</type>
+			<location>C:/Users/maribel/Pictures/Los tresChanchitos/casa2P.jpg</location>
+		</link>
+		<link>
+			<name>assets/chanchitos3P.jpg</name>
+			<type>1</type>
+			<location>C:/Users/maribel/Pictures/Los tresChanchitos/chanchitos3P.jpg</location>
+		</link>
+		<link>
+			<name>assets/chanchitosTrabajando2P.jpg</name>
+			<type>1</type>
+			<location>C:/Users/maribel/Pictures/Los tresChanchitos/chanchitosTrabajando2P.jpg</location>
+		</link>
+		<link>
+			<name>assets/cuento1.jpg</name>
+			<type>1</type>
+			<location>C:/Users/maribel/Pictures/Los tresChanchitos/cuento1.jpg</location>
+		</link>
+		<link>
+			<name>assets/fuegoP.jpg</name>
+			<type>1</type>
+			<location>C:/Users/maribel/Pictures/Los tresChanchitos/fuegoP.jpg</location>
+		</link>
+		<link>
+			<name>assets/images.jpg</name>
+			<type>1</type>
+			<location>C:/Users/maribel/Pictures/Los tresChanchitos/images.jpg</location>
+		</link>
+		<link>
+			<name>assets/index.jpg</name>
+			<type>1</type>
+			<location>C:/Users/maribel/Pictures/Los tresChanchitos/index.jpg</location>
+		</link>
+		<link>
+			<name>assets/lobo2P.png</name>
+			<type>1</type>
+			<location>C:/Users/maribel/Pictures/Los tresChanchitos/lobo2P.png</location>
+		</link>
+		<link>
+			<name>assets/loboChimeneaP.png</name>
+			<type>1</type>
+			<location>C:/Users/maribel/Pictures/Los tresChanchitos/loboChimeneaP.png</location>
+		</link>
+		<link>
+			<name>assets/loboDestruyeCasaP.jpg</name>
+			<type>1</type>
+			<location>C:/Users/maribel/Pictures/Los tresChanchitos/loboDestruyeCasaP.jpg</location>
+		</link>
+		<link>
+			<name>assets/loboSeRindeP.jpg</name>
+			<type>1</type>
+			<location>C:/Users/maribel/Pictures/Los tresChanchitos/loboSeRindeP.jpg</location>
+		</link>
+		<link>
+			<name>assets/loboferozP.png</name>
+			<type>1</type>
+			<location>C:/Users/maribel/Pictures/Los tresChanchitos/loboferozP.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
